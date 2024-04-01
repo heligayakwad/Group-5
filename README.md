@@ -21,3 +21,4 @@ GIS Integration: Utilize GIS technology and ArcGIS Pro Software for enhanced map
 The Weather Tracker app is aimed at the general public interested in staying informed about weather conditions in their area. Whether users plan outdoor activities, travel, or want to be prepared for the day ahead, our app caters to individuals seeking reliable and convenient weather information.
 
 **Team Weather Tracker**
+HELI,KEVAL,ROSHNI
